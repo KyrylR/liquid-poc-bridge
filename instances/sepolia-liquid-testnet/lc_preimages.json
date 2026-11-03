@@ -27,6 +27,13 @@
    "committee": "d284387717d1acc14c7478298cdcacbfd529c1a7f609481776eb650e2f0b6007",
    "update": "a3a7a5fa646f6db445527c89d45ac1691d7dad7abbca1331f50a1ca68a0b2bda",
    "store": "lc_stores/11469600.json"
+  },
+  {
+   "head": 11498240,
+   "header": "8f16fe66d7fd007e58e2e5abe877091f20dad56ec9e73e2fc0c69b45121608e7",
+   "committee": "eecb4293bf3810731977c71a4338197a3cf167c7ca3dd8056ceee923cda9a1e3",
+   "update": "88ed9ce97f7c10b7e27b3d74172765f4f34706ebab4bc7515bc852f37e9612a4",
+   "store": "lc_stores/11498240.json"
   }
  ]
 }
